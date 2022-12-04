@@ -5,6 +5,6 @@
 Install it and run:
 
 ```sh
-npm installc
+npm install
 npm start
 ```
